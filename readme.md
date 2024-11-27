@@ -21,3 +21,19 @@ The dataset used in this project was extracted from the UCI Machine Learning Rep
 [Communities and Crime - UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/183/communities+and+crime)
 
 This dataset includes data on various social, economic, and demographic factors, as well as crime rates in the communities, with the goal of analyzing potential correlations between these variables.
+
+## Setup and Installation
+
+To get started with the project, follow these steps:
+
+1. **Create a Conda Environment**  
+   Ensure you have [Conda](https://conda.io/) installed. If not, install it from the [official website](https://conda.io/projects/conda/en/latest/index.html). Once Conda is installed, create a new environment with Python 3.9 using the following command:
+
+   ```bash
+   conda create -n env python=3.9
+2. **Activate the environment**
+    ```bash
+    conda activate env
+3. **Install Required Packages**
+    The necessary packages and dependencies for the project are listed in the first code cell of the Jupyter notebook. Please ensure you run that cell to install all required packages.
+4. **Run the Jupyter Notebook**
